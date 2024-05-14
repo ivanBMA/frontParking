@@ -9,4 +9,5 @@ import { Component } from '@angular/core';
 })
 export class PrimeraVistaComponent {
   hola = "holaaa";
+  media = "25 coches al dia"
 }
